@@ -1,0 +1,5 @@
+A Python tic tac toe game that runs in the console.
+Playable for 2 players. It does print graphics to console.
+Everything is manual with the exception of the import of random and string.
+The game validate most of the states and inputs.
+Didn't had time to implement unit test nor file input/output
